@@ -1,11 +1,11 @@
 # taxi_prediction_fullstack_edvin
 Fullstack ML application for predicting taxi prices
 
-<img src="images/sidebar.png">
+<img src="src/taxipred/images/sidebar.png">
 
-<img src="images/homepage.png">
+<img src="src/taxipred/images/homepage.png">
 
-<img src="images/prediction.png">
+<img src="src/taxipred/images/prediction.png">
 
 
 # EDA and Data Cleaning
