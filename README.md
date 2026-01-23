@@ -7,7 +7,7 @@ Fullstack ML application for predicting taxi prices
 
 <img src="src/taxipred/images/prediction.png">
 
-<img src="taxipred/images/swaggerui.png">
+<img src="src/taxipred/images/swaggerui.png">
 
 # EDA and Data Cleaning
 
